@@ -1,10 +1,8 @@
-package com.dmm.middleware.test.interfaces;
+package com.dmm.test.interfaces;
 
-import com.dmm.middleware.whitelist.DoJoinPoint;
 import com.dmm.middleware.whitelist.annotation.DoWhiteList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 /**

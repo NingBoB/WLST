@@ -1,4 +1,4 @@
-package com.dmm.middleware.test.interfaces;
+package com.dmm.test.interfaces;
 
 /**
  * @author Mean
